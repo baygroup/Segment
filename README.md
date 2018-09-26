@@ -1,5 +1,7 @@
 # Alt Three Segment
 
+TEMPORARY PACKAGE TO ADD LARAVEL 5.7 SUPPORT
+
 A [Segment](https://segment.com/) bridge for Laravel 5.
 
 
